@@ -1,0 +1,80 @@
+ID,Facilities,Location
+ID,Facilities,Location
+1,"Container Terminal-Repair Yard",Rotterdam(Netherlands)
+2,"Bulk Cargo Terminal-Cruise Ship Terminal",Miami(USA)
+3,"Oil Refinery-Grain Terminal",Singapore(Singapore)
+4,"Container Terminal-LNG Terminal",Shanghai(China)
+5,"Car Terminal-RoRo Terminal",Yokohama(Japan)
+6,"Coal Terminal-Chemical Terminal",Hamburg(Germany)
+7,"Container Terminal-Passenger Terminal",Long Beach(USA)
+8,"Iron Ore Terminal-Steel Mill",Busan(South Korea)
+9,"Liquefied Natural Gas Terminal-Dry Dock",Ras Laffan(Qatar)
+10,"Fishery Terminal-Cement Plant",Alexandria(Egypt)
+11,"Fruit Terminal-Lumber Terminal",Santos(Brazil)
+12,"Passenger Terminal-Free Trade Zone",Dubai(United Arab Emirates)
+13,"Container Terminal-Break Bulk Terminal",Valencia(Spain)
+14,"Coffee Terminal-Cotton Terminal",Abidjan(Ivory Coast)
+15,"Nickel Terminal-Bauxite Terminal",Noumea(New Caledonia)
+16,"Timber Terminal-Paper Mill",Helsinki(Finland)
+17,"General Cargo Terminal-Ferry Terminal",Dover(United Kingdom)
+18,"Grain Terminal-Fertilizer Terminal",Amsterdam(Netherlands)
+19,"Coal Terminal-Power Plant",Newcastle(Australia)
+20,"Container Terminal-Cruise Ship Terminal",Barcelona(Spain)
+21,"Oil Terminal-Chemical Terminal",Houston(USA)
+22,"Iron Ore Terminal-Manganese Terminal",Port Hedland(Australia)
+23,"Liquefied Natural Gas Terminal-Container Terminal",Ras Lanuf(Libya)
+24,"Copper Terminal-Zinc Terminal",Antwerp(Belgium)
+25,"Cocoa Terminal-Rubber Terminal",Abidjan(Ivory Coast)
+26,"Diamond Terminal-Gold Terminal",Johannesburg(South Africa)
+27,"Wood Chip Terminal-Pulp Mill",Montreal(Canada)
+28,"General Cargo Terminal-Passenger Terminal",Genoa(Italy)
+29,"Petroleum Coke Terminal-Asphalt Terminal",Singapore(Singapore)
+30,"Salt Terminal-Gypsum Terminal",Qingdao(China)
+31,"Steel Terminal-Scrap Metal Terminal",Kaohsiung(Taiwan)
+32,"Container Terminal-Break Bulk Terminal",Jebel Ali(United Arab Emirates)
+33,"Nickel Terminal-Chrome Terminal",Ludvika(Sweden)
+34,"Palm Oil Terminal-Fertilizer Terminal",Port Kelang(Malaysia)
+35,"Coal Terminal-Power Plant",Richards Bay(South Africa)
+36,"Container Terminal-Cruise Ship Terminal",Civitavecchia(Italy)
+37,"Oil Terminal-Chemical Plant",Rotterdam(Netherlands)
+38,"Iron Ore Terminal-Manganese Terminal",Port Hedland(Australia)
+39,"Bauxite Terminal-Alumina Terminal",Kamsar(Guinea)
+40,"Copper Terminal-Lead Terminal",Antwerp(Belgium)
+41,"Sisal Terminal-Coffee Terminal",Dar es Salaam(Tanzania)
+42,"Citrus Terminal-Wine Terminal",Valencia(Spain)
+43,"Cement Terminal-Clinker Terminal",Salalah(Oman)
+44,"Wood Pulp Terminal-Paper Mill",Stockholm(Sweden)
+45,"General Cargo Terminal-RoRo Terminal",Zeebrugge(Belgium)
+46,"Crude Oil Terminal-Liquefied Petroleum Gas Terminal",Ras Tanura(Saudi Arabia)
+47,"Iron Ore Terminal-Coal Terminal",Tubarão(Brazil)
+48,"Bauxite Terminal-Alumina Terminal",Wendell(Australia)
+49,"Nickel Terminal-Cobalt Terminal",Murmansk(Russia)
+50,"Copper Terminal-Lead Terminal",Hamburg(Germany)
+51,"Bananas Terminal-Sugar Terminal",Puerto Limon(Costa Rica)
+52,"Petroleum Coke Terminal-Asphalt Terminal",Houston(USA)
+53,"Salt Terminal-Gypsum Terminal",Tianjin(China)
+54,"Steel Terminal-Scrap Metal Terminal",Chennai(India)
+55,"Container Terminal-Break Bulk Terminal",Tanjung Pelepas(Malaysia)
+56,"Coal Terminal-Cement Plant",Qinhuangdao(China)
+57,"Oil Terminal-Refinery",Los Angeles(USA)
+58,"Iron Ore Terminal-Nickel Terminal",Murmansk(Russia)
+59,"Bauxite Terminal-Alumina Refinery",Dampier(Australia)
+60,"Copper Terminal-Zinc Terminal",Gdańsk(Poland)
+61,"Coffee Terminal-Cocoa Terminal",Tema(Ghana)
+62,"Citrus Terminal-Wine Terminal",Genoa(Italy)
+63,"Clinker Terminal-Cement Plant",Fujairah(United Arab Emirates)
+64,"Wood Pulp Terminal-Sawmill",Vancouver(Canada)
+65,"General Cargo Terminal-Ferry Terminal",Dover(United Kingdom)
+66,"Dry Dock-Pulp Mill",Faridabad
+67,"Oil Refinery-Fruit Terminal",Patna
+68,"Power Plant-Fishery Terminal-Fruit Terminal",Lucknow
+69,"Diamond Terminal-Lumber Terminal-Grain Terminal",Visakhapatnam
+70,"Lumber Terminal-Chemical Terminal-Wood Pulp Terminal",Pune
+71,"Palm Oil Terminal-Grain Terminal-Bulk Cargo Terminal",Bhopal
+72,"Chemical Terminal-Lumber Terminal",Meerut
+73,"Coffee Terminal-Ferry Terminal-Petroleum Coke Terminal",Indore
+74,"Liquefied Petroleum Gas Terminal-Paper Mill-Asphalt Terminal",Faridabad
+75,"Fruit Terminal-Palm Oil Terminal-Liquefied Natural Gas Terminal",Prayagraj
+76,"Cement Plant-Palm Oil Terminal-Cruise Ship Terminal",Vadodara
+77,"Paper Mill-Copper Terminal",Ahmedabad
+78,"Dry Dock-Ferry Terminal",Lucknow
